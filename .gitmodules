@@ -1,0 +1,6 @@
+[submodule "marketplace-api"]
+	path = marketplace-api
+	url = https://github.com/matheus-nascimento99/marketplace-api
+[submodule "marketplace-web"]
+	path = marketplace-web
+	url = https://github.com/matheus-nascimento99/marketplace-web
