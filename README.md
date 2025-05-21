@@ -1,3 +1,4 @@
+
 # 🛍️ Marketplace
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()  
@@ -57,6 +58,25 @@ Uma plataforma moderna e robusta para gestão de vendas de produtos, construída
 - Princípios SOLID e DDD  
 - Testes unitários, de integração e E2E  
 
+### Mobile
+
+- React Native  
+- Expo  
+- TypeScript  
+
+---
+
+## 📱 Aplicativo Mobile
+
+O aplicativo mobile do Marketplace oferece uma experiência intuitiva e eficiente para os usuários gerenciarem suas vendas e compras diretamente de seus dispositivos móveis. Desenvolvido com React Native e Expo, o app permite:
+
+- Visualizar e gerenciar produtos disponíveis
+- Acompanhar métricas de vendas e engajamento
+- Realizar autenticação segura
+- Navegar por categorias e detalhes dos produtos
+
+Com uma interface responsiva e amigável, o aplicativo visa proporcionar praticidade e agilidade no gerenciamento das atividades do Marketplace.
+
 ---
 
 ## 💡 Funcionalidades Principais
@@ -100,6 +120,8 @@ Uma plataforma moderna e robusta para gestão de vendas de produtos, construída
 ✓ NPM ou Yarn  
 ```
 
+---
+
 ### 🔧 Backend
 
 ```bash
@@ -119,6 +141,8 @@ npx prisma db seed
 npm run start:dev
 ```
 
+---
+
 ### 🎨 Frontend
 
 ```bash
@@ -127,6 +151,24 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+```
+
+---
+
+### 📱 Mobile
+
+```bash
+# Instale o Expo CLI
+npm install -g expo-cli
+
+# Acesse a pasta do projeto mobile
+cd marketplace-mobile
+
+# Instale as dependências
+npm install
+
+# Inicie o app mobile com Expo
+npx expo start
 ```
 
 ---
@@ -166,3 +208,9 @@ npm run test:e2e
 - Proprietários não podem registrar visualizações em seus próprios produtos  
 - Proteção contra visualizações duplicadas  
 - Registro apenas para produtos e usuários existentes  
+
+---
+
+## 🔐 Ambiente
+
+> ✅ **Certifique-se de preencher corretamente os arquivos `.env` em todos os projetos (`api`, `web` e `mobile`) para garantir o funcionamento completo da aplicação.**
