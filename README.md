@@ -16,15 +16,12 @@ Uma plataforma moderna e robusta para gestão de vendas de produtos, construída
   <tr>
     <td width="33%">
       🏠 Dashboard  
-      <img src="/api/placeholder/400/200" alt="Dashboard Preview"/>
     </td>
     <td width="33%">
       📦 Produtos  
-      <img src="/api/placeholder/400/200" alt="Products Preview"/>
     </td>
     <td width="33%">
       📊 Métricas  
-      <img src="/api/placeholder/400/200" alt="Metrics Preview"/>
     </td>
   </tr>
 </table>
