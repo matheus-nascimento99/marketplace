@@ -4,3 +4,6 @@
 [submodule "marketplace-web"]
 	path = marketplace-web
 	url = https://github.com/matheus-nascimento99/marketplace-web
+[submodule "marketplace-mobile"]
+	path = marketplace-mobile
+	url = https://github.com/matheus-nascimento99/marketplace-mobile
