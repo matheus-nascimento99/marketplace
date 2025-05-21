@@ -15,7 +15,7 @@ Uma plataforma moderna e robusta para gestão de vendas de produtos, construída
 <table>
   <tr>
     <td width="33%">
-      🏠 Dashboard  
+      🏠 Dashboard
     </td>
     <td width="33%">
       📦 Produtos  
