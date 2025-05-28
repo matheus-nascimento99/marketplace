@@ -1,4 +1,3 @@
-
 # 🛍️ Marketplace
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()  
@@ -37,6 +36,7 @@ Uma plataforma moderna e robusta para gestão de vendas de produtos, construída
 - 🧪 **Testável**: Cobertura completa com testes unitários, integração e E2E  
 - 🎨 **UI/UX**: Componentes modernos com Radix UI  
 - 📊 **Métricas**: Analytics detalhados de vendas e engajamento  
+- 📡 **Observabilidade**: Monitoramento com Prometheus e visualização com Grafana  
 
 ---
 
@@ -64,16 +64,21 @@ Uma plataforma moderna e robusta para gestão de vendas de produtos, construída
 - Expo  
 - TypeScript  
 
+### Observabilidade
+
+- Prometheus para coleta de métricas  
+- Grafana para dashboards de monitoramento  
+
 ---
 
 ## 📱 Aplicativo Mobile
 
 O aplicativo mobile do Marketplace oferece uma experiência intuitiva e eficiente para os usuários gerenciarem suas vendas e compras diretamente de seus dispositivos móveis. Desenvolvido com React Native e Expo, o app permite:
 
-- Visualizar e gerenciar produtos disponíveis
-- Acompanhar métricas de vendas e engajamento
-- Realizar autenticação segura
-- Navegar por categorias e detalhes dos produtos
+- Visualizar e gerenciar produtos disponíveis  
+- Acompanhar métricas de vendas e engajamento  
+- Realizar autenticação segura  
+- Navegar por categorias e detalhes dos produtos  
 
 Com uma interface responsiva e amigável, o aplicativo visa proporcionar praticidade e agilidade no gerenciamento das atividades do Marketplace.
 
